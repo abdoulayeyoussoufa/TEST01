@@ -1,0 +1,3 @@
+Apprendre angular 4: https://angular2.fr/developer/58a1863e2e158e82bb85bb6a/58a1875106e2b482e9db7bb3/lesson/58a1875e06e2b482e9db7bb4/1/2
+API Rest for alfresco https://community.alfresco.com/community/ecm/blog/2016/10/24/v1-rest-api-part-3-creating-nodes
+Comprendre les Methodes DAO:spring data jpa :https://fr.slideshare.net/soatexpert/prsentation-spring-data-matthieu-briend
